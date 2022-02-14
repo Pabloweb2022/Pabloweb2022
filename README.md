@@ -6,7 +6,7 @@
 
 
 ![Gomes GitHub stats](https://github-readme-stats.vercel.app/api?username=Pabloweb2022&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=16&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pabloweb2022&layout=compact&langs_count=16&theme=tokyonight)
 
 ## Tecnologias que eu utilizo:
 
