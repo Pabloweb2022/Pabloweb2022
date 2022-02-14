@@ -18,4 +18,4 @@
 
 Estudante de Desenvolvimento Web e apaixonado por tecnologia🖥️❤️.
 
-e-mail: pablogomes_bm@hotmail.com
+📧e-mail: pablogomes_bm@hotmail.com
