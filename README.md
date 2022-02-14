@@ -5,8 +5,8 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5524988173930)
 
 
-![Gome GitHub stats](https://github-readme-stats.vercel.app/api?username=Pabloweb2022&show_icons=true&theme=tokyonight)
-
+![Gomes GitHub stats](https://github-readme-stats.vercel.app/api?username=Pabloweb2022&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=16&theme=tokyonight)
 
 ## Tecnologias que eu utilizo:
 
