@@ -4,9 +4,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pgomes_bm/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5524988173930)
 
-
-![Gomes GitHub stats](https://github-readme-stats.vercel.app/api?username=Pabloweb2022&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pabloweb2022&layout=compact&langs_count=16&theme=tokyonight)
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pabloweb2022&show_icons=true&theme=tokyonight">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=16&theme=tokyonight">
+</div>
 
 ## Tecnologias que eu utilizo:
 
