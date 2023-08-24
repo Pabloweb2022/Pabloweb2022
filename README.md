@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pablo</h1>
 <h3 align="center">Fullstack Developer from Brasil</h3>
-<img align="right" alt="Conding" width="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif"/>
+<img align="right" alt="Conding" width="300" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pabloweb2022&label=Profile%20views&color=0e75b6&style=flat" alt="pabloweb2022" /> </p>
 
